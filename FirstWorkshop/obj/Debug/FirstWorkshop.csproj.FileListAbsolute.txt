@@ -1,0 +1,10 @@
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\bin\Debug\FirstWorkshop.exe.config
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\bin\Debug\FirstWorkshop.exe
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\bin\Debug\FirstWorkshop.pdb
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\obj\Debug\FirstWorkshop.csprojAssemblyReference.cache
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\obj\Debug\FirstWorkshop.Form1.resources
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\obj\Debug\FirstWorkshop.Properties.Resources.resources
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\obj\Debug\FirstWorkshop.csproj.GenerateResource.cache
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\obj\Debug\FirstWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\obj\Debug\FirstWorkshop.exe
+C:\Users\alejo\source\repos\FirstWorkshop\FirstWorkshop\obj\Debug\FirstWorkshop.pdb
